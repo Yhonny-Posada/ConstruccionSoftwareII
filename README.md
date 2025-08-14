@@ -1,5 +1,5 @@
 # ConstruccionSoftwareII
-Software development learning for the second semester
+Software development learning for the third semester
 
 ## Members:
 ### - Paula Andrea Rosero Colorado - Class Schedule: Tuesday - Thursday 08:00 pm - 10:00 pm
